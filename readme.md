@@ -1,0 +1,1 @@
+--saare ohort ke questions and practice sab isi folder mein rahenge.
