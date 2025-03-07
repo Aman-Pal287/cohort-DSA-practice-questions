@@ -1,1 +1,1 @@
---saare ohort ke questions and practice sab isi folder mein rahenge.
+--saare cohort DSA ke questions and practice sab isi folder mein rahega.
