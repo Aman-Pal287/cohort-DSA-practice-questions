@@ -27,5 +27,26 @@
 // }else console.log("Not a Leap year");
 
 
-// Q2. shop discount
+// Q2. shop disountcount
+// let amount = Number(prompt("Enter amount"));
+// if(amount>=0 && amount<=5000){
+//     console.log(amount);
+// }else if(amount>5000 && amount<=7000){
+//     console.log(amount - (5*amount)/100);
+// }else if(amount>7000 && amount<=9000){
+//     console.log(amount - (10*amount)/100);
+// }else if(amount>9000){
+//     console.log(amount - (20*amount)/100);
+// }else{
+//     console.log("invalid input");
+// }
 
+//efficient tarika shop disount count waale question ka
+// let amount = Number(prompt("Enter amount"));
+// let disount = 0;
+// if(amount>=0 && amount<=5000) disount = 0;
+// else if(amount>5000 && amount<=7000) disount = 5;
+// else if(amount>7000 && amount<=9000) disount = 10;
+// else if(amount>9000) disount = 20;
+// else console.log("invalid input");
+// console.log(amount -  (disount*amount)/100);
