@@ -88,3 +88,15 @@
 // }
 // amount = amount + unit*4.2;
 // console.log("your bill amount = " + amount);
+
+
+
+//yaha se loop ke suru
+// types of loop: two types
+// i>  entry control loop => for , while
+// ii> exit control loop => do-while
+//for ke liye ye teeno chahiye(optional hai) => declere/initilize, condition , change;
+
+// for (let i=1; i<=5;i++){
+//     console.log("hello world")
+// }
