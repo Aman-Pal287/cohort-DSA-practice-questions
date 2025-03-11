@@ -26,5 +26,7 @@
 // }
 
 
+//problem 3: take a number as input and print its table
+let 
 
 
