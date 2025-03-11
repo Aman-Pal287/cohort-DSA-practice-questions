@@ -9,3 +9,22 @@
 //     }
 //     console.log("failed at " + i );
 // }
+
+
+//problem 2: print natural number up to n terms.
+// let n = Number(prompt("Enter a number"));
+
+// //1 to n
+// for(let i = 1;i<=n;i++){
+//     console.log(i);    
+// }
+// console.log("-------------------------------------------------");
+
+// //n to 1
+// for(let i = n;i>=1;i--){
+//     console.log(i);    
+// }
+
+
+
+
