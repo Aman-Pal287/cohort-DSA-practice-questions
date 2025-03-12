@@ -48,3 +48,15 @@
 //     n= Math.floor(n/10);
 // }
 // console.log("the sum of your digit is = " + sum);
+
+
+//examle 4: reverse of a digits (282->182)
+// let n = Number(prompt("enter a number"));
+// let sum = 0;
+// reverse = 0;
+// while(n>0){
+//     let reminder = n%10;
+//     reverse = (reverse*10)+reminder;
+//     n = Math.floor(n/10);
+// }
+// console.log(reverse)
