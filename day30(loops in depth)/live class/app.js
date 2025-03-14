@@ -30,4 +30,9 @@
 // let n = Number(prompt("Enter a number"));
 // for (let i = 1; i<=10;i++) console.log(n + " * " + i + " = " + (n*i));
 
+//problem 4 : sum up to n terms
+// let n = Number(prompt("Enter a number"));
+// let sum = 0;
+// for (let i=1;i<=n;i++) sum += i;
+// console.log(sum);
 
