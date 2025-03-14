@@ -101,3 +101,21 @@
 //     }
 // }
 // console.log(isPrime ? "prime number" : "Not a prime number");
+
+
+//method 3(efficient): bhaut pyari approach (using Math.sqrt()) [very important]
+// let n = Number(prompt("Enter a number"))
+// let isPrime = isPrimeFun(n);
+// if(isPrime) console.log("Prime Number");
+// else console.log("not a prime number");
+
+// function isPrimeFun(n){
+//     if(n<=1) return false;
+//     if(n==2) return true;
+//     if(n%2==0) return false;
+//     for(let i =3;i<=Math.floor(Math.sqrt(n));i+=2){
+//         if(n%i==0) return false;
+//     }
+//     return true;
+// }
+
