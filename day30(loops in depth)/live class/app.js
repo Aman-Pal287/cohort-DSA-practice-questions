@@ -43,3 +43,16 @@
 //     factorial *= i
 // }
 // console.log(factorial);
+
+
+// problem 6: print the sum of all even and odd numbers in a range seperately
+// let num = Number(prompt("Enter a number"))
+// let oddSum = 0 , evenSum = 0;
+
+// for(let i= 1;i<=num;i++){
+//     if(i%2 == 0) evenSum += i;
+//     else oddSum += i;
+// }
+// console.log("oddSum is = " + oddSum );
+// console.log("evenSum is = " + evenSum );
+
