@@ -36,3 +36,10 @@
 // for (let i=1;i<=n;i++) sum += i;
 // console.log(sum);
 
+//problem 5: factorial of a given number
+// let n = Number(prompt("Enter a number"));
+// let factorial = 1;
+// for(let i=1;i<=n ; i++){
+//     factorial *= i
+// }
+// console.log(factorial);
