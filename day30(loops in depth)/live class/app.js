@@ -56,3 +56,24 @@
 // console.log("oddSum is = " + oddSum );
 // console.log("evenSum is = " + evenSum );
 
+
+
+
+//problem 7: Print all the factors of a number.
+//note : agr hum itself number ko chor de toh uske just last wala factor uss number ka half hota hai example:jaise 10 ka factor 1,2,5,10. toh ismein 10 jo hai wo itself number hai aur uske just last pehle fator 5 hai jo 10 ka addha hai. 
+//note : ha to agar hum itself ko bhi loop mein gin lete hai toh wo loop us number ke half se us number tak loop ko chalna hai parega jo performace ki ga**d mar dega isliye hum itself jo number hota hai usse hum direct print kar dete hai
+// let n = Number(prompt("Enter a number"))
+
+// for(let i=1;i<=n;i++){
+//     if(n%i == 0){
+//         console.log("the factors is = " + i )
+//     }
+// }
+//efficient tarika
+// for (let i = 1; i <= n / 2; i++) {
+//     if (n % i == 0) {
+//         console.log("the factor is = " + i)
+//     }
+// }
+// console.log("the factors is = " + n)  
+
