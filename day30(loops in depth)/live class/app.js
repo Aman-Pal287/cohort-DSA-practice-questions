@@ -119,3 +119,14 @@
 //     return true;
 // }
 
+
+/* home work : Write a prgram to take two inputs x & y  and find the value of x raised to the power of b.
+ex: x= 2, b=5
+output(OP)=> 2^5=32
+*/
+// let x  = Number(prompt("Enter a number(x)"))
+// let y = Number(prompt("Enter a number(y)"))
+// let power = powerFun(x,y);
+// function powerFun(x,y){
+//     console.log("the answer value of x raised to the power y is =  "+ Math.pow(x,y));
+// }
