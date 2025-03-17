@@ -50,7 +50,7 @@
 // console.log("the sum of your digit is = " + sum);
 
 
-//examle 4: reverse of a digits (282->182)
+//examle 4: reverse of a digits (281->182)
 // let n = Number(prompt("enter a number"));
 // let sum = 0;
 // reverse = 0;
@@ -60,3 +60,20 @@
 //     n = Math.floor(n/10);
 // }
 // console.log(reverse)
+
+
+
+//AUTOMORPHIC NUMBER 
+// let n = Number(prompt("enter a number"));
+// let copy = n;
+// let sq = n*n;
+
+// let count = 0;
+// while(n>0){
+//     count++
+//     n = Math.floor(n/10);
+// }
+
+// if(sq%Math.pow(10,count) == copy) console.log("Automorphic Number");
+// else console.log("Not a automorphic number");
+
