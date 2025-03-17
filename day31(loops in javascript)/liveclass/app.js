@@ -77,3 +77,53 @@
 // if(sq%Math.pow(10,count) == copy) console.log("Automorphic Number");
 // else console.log("Not a automorphic number");
 
+
+//switch statement
+// example 1
+// let n = Number(prompt("Enter a number"));
+// switch(n){
+//     case 1:{ 
+//         console.log("Monday");
+//     }
+//     break
+
+//     case 2: console.log("Tuesday");
+//     break
+
+//     case 3: console.log("wednesday");
+//     break
+
+//     case 4: console.log("thrusday");
+//     break
+
+//     case 5: console.log("friday");
+//     break
+
+//     case 6: console.log("saturday");
+//     break
+
+//     case 7: console.log("sunday");
+//     break
+
+//     default : console.log("main toh chalunga hi agar kuch nhi chala toh");    
+// }
+//example 2: multiple case ke liye ke hi execution
+// let n = Number(prompt("Enter a number"));
+// switch(n){
+//     case 1:
+//     case 2:
+//     case 3:    
+//     case 4:
+//         console.log("Monday");
+//         break
+
+//     case 5:
+//     case 6:
+//     case 7:    
+//     case 8:
+//         console.log("Tuesday");
+//         break
+
+//     default : console.log("main toh chalunga hi agar kuch nhi chala toh");    
+
+// }
