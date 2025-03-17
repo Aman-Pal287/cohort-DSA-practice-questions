@@ -130,13 +130,13 @@
 
 
 //switch case : true and false wala
-switch (true) {
-    case 10>9: console.log("hello");        
-        break;
-    case 18>7 && 45>9: console.log("hey");
-        break;
+// switch (true) {
+//     case 10>9: console.log("hello");        
+//         break;
+//     case 18>7 && 45>9: console.log("hey");
+//         break;
     
-    default: console.log("main toh chalunga hi agar kuch nhi chala toh");
+//     default: console.log("main toh chalunga hi agar kuch nhi chala toh");
     
     
-}
+// }
