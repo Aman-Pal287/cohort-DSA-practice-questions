@@ -61,3 +61,4 @@
 //     userInput = prompt("kya aap dubara chalana chahte hai? yes/no")
 // } while (userInput === "yes");
 
+//homework : Project restaurant
