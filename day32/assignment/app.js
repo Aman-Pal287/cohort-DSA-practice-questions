@@ -77,8 +77,10 @@
 // else console.log("Not a Abundant Number");
 
 //Question 6://hold pe hai 
-let n = Number(prompt("Enter a number"))
-let arr =[];
-for (let i = 0; i<=n ; i++ ){
+// let n = Number(prompt("Enter a number"))
+// let arr =[];
+// for (let i = 0; i<=n ; i++ ){
 
-}
+// }
+
+
