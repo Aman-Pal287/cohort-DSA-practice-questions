@@ -94,7 +94,7 @@
 // console.log(isPrime ? "prime number" : "Not a prime number");
 
 // method 2 : (efficient tarika)
-// for (let i = 2; i<=n/2; i++){ // loop 2 se (n-1) tak chalega
+// for (let i = 2; i<=n/2; i++){ // loop 2 se n/2 tak chalega
 //     if(n%i==0){
 //         isPrime = false;
 //         break

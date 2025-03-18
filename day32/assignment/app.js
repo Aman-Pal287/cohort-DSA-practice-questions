@@ -52,6 +52,18 @@
 // else console.log("not a harshad number");
 
 
+
+//Quesion 4:
+let n = Number(prompt("Enter a number"))
+let answer = isPerfectSquare(n)
+console.log(answer);
+function isPerfectSquare(n) {
+    let sqrt = Math.sqrt(n);
+    return sqrt === Math.floor(sqrt) ? "Perfect Square" : "Not a Perfect Square";
+}
+
+
+
 //Question 5:
 // let n = Number(prompt("Enter a number"));
 // let arr1 = [];
