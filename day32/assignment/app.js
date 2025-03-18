@@ -52,7 +52,7 @@
 // else console.log("not a harshad number");
 
 
-//Question 4:
+//Question 5:
 // let n = Number(prompt("Enter a number"));
 // let arr1 = [];
 // for(let i = 1; i<=n/2 ; i++){
