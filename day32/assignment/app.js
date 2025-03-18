@@ -38,3 +38,16 @@
 // let commonFactor = Math.max(...commonElem);
 // console.log("the highest commonFactor is = " + commonFactor);
 
+//Question 3 :
+// let n = Number(prompt("Enter harshad number"));
+// let copy = n;
+// let sum = 0;
+// rem = 0;
+// while(n>0){
+//     rem = n%10;
+//     sum += rem;
+//     n = Math.floor(n/10);
+// }
+// if(copy % sum == 0) console.log("Harshad Number");
+// else console.log("not a harshad number");
+
