@@ -13,3 +13,28 @@
 // if(isbnNum%11 == 0){
 //     console.log("Valid isbn");    
 // }else console.log("Invalid isbn");
+
+
+//Question 2: 
+// let a = Number(prompt("Enter first number"));
+// let b = Number(prompt("Enter second number"));
+// let arr1 = [];
+// let arr2 = [];
+
+// for(let i = 1; i<=a ; i++){
+//     if(a%i == 0 ){
+//         arr1.push(i);
+//     }
+// }
+// console.log(arr1);
+
+// for(let i = 0; i<=b ; i++){
+//     if(b%i == 0){
+//         arr2.push(i);
+//     }
+// }
+
+// let commonElem = arr1.filter(element => arr2.includes(element));
+// let commonFactor = Math.max(...commonElem);
+// console.log("the highest commonFactor is = " + commonFactor);
+
