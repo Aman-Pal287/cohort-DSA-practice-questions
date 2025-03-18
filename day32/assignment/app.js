@@ -51,3 +51,16 @@
 // if(copy % sum == 0) console.log("Harshad Number");
 // else console.log("not a harshad number");
 
+
+//Question 4:
+// let n = Number(prompt("Enter a number"));
+// let arr1 = [];
+// for(let i = 1; i<=n/2 ; i++){
+//     if(n%i == 0 ){
+//         arr1.push(i);
+//     }
+// }
+// let sumArr = arr1.reduce((acc,num)=> acc+num , 0);
+// if(sumArr>n) console.log("Abundant Number");
+// else console.log("Not a Abundant Number");
+
