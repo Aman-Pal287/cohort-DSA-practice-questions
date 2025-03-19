@@ -1,4 +1,4 @@
-const prompt = require('prompt-sync')()
+// const prompt = require('prompt-sync')()
 
 // Question 1: checking isbn number
 // let n = Number(prompt("Enter a isbn number"));
@@ -112,3 +112,30 @@ const prompt = require('prompt-sync')()
 //     }
 // }
 // console.log(result);
+
+// Question 9. Calculate area using switch statement
+// let shape = prompt("What shape of area you want circle , rectangle or trianle : ");
+
+
+// switch (shape) {
+//     case "circle":{
+//         let radius = prompt("Enter radius") ;
+//         let area = Math.PI*Math.pow(radius,2);
+//         console.log("the area of cirle is : " +area);
+//     }       
+//         break;
+//     case "rect":{
+        
+//         let lenght = Number(prompt("enter length of rectangle"))
+//         let width = Number(prompt("enter width of rectangle"))
+        
+//         console.log("the area of rectangle is : " + (length*width));
+        
+//     }
+//          break;
+    
+    
+    
+//     default: console.log("enter a valid sahpe");
+// }
+
