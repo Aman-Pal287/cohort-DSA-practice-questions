@@ -1,4 +1,4 @@
-// const prompt = require('prompt-sync')()
+const prompt = require('prompt-sync')()
 
 // Question 1: checking isbn number
 // let n = Number(prompt("Enter a isbn number"));
@@ -138,4 +138,20 @@
     
 //     default: console.log("enter a valid sahpe");
 // }
+
+
+
+//Question 10:
+// let n = prompt("Enter a number");
+// let square = n*n;
+// let copy = square;
+// let rem = 0;
+// sum = 0;
+// while(square>0){
+//     rem = square%10;
+//     sum += rem;
+//     square = Math.floor(square/10);
+// }
+// if(sum == n) console.log("Neon Number");
+// else console.log("not a neon number");
 
