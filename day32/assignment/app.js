@@ -91,7 +91,7 @@ const prompt = require('prompt-sync')()
 //     a=b;
 //     b=c;
 //     }
-    
+
 // }   
 
 
@@ -125,17 +125,17 @@ const prompt = require('prompt-sync')()
 //     }       
 //         break;
 //     case "rect":{
-        
+
 //         let lenght = Number(prompt("enter length of rectangle"))
 //         let width = Number(prompt("enter width of rectangle"))
-        
+
 //         console.log("the area of rectangle is : " + (length*width));
-        
+
 //     }
 //          break;
-    
-    
-    
+
+
+
 //     default: console.log("enter a valid sahpe");
 // }
 
@@ -155,3 +155,44 @@ const prompt = require('prompt-sync')()
 // if(sum == n) console.log("Neon Number");
 // else console.log("not a neon number");
 
+
+// Question 11:
+// let n = Number(prompt("Enter a number"))
+// let arr = []
+// let a,b,c;
+// let sum = 0;
+// a=0;
+// b=1;
+// arr.push(a);
+// arr.push(b);
+// for(let i = 2;i<2*n;i++){    
+//     c = a+b;
+//     arr.push(c);
+//     a=b;
+//     b=c;        
+// } 
+
+// for (let i = 0 ;i<2*n;i+=2){
+//     sum += arr[i];
+// }
+// console.log(sum);
+
+
+//discord
+// let n = Number(prompt("Enter the number"));
+// let pre = 0;
+// let next = 1;
+// let sum = 1
+// let temp;
+// console.log(pre);
+// console.log(next);
+// for (let i = 1; i <= n - 2; i++) {
+//     temp = pre;
+//     pre = next;
+//     next = temp + next
+//     console.log(next);
+//     if (i % 2 == 0) {
+//         sum = sum + next;
+//     }
+// }
+// console.log(sum);
