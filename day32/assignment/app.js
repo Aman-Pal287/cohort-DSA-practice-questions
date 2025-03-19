@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')()
+
 // Question 1: checking isbn number
 // let n = Number(prompt("Enter a isbn number"));
 // let copy = n;
@@ -78,9 +80,19 @@
 
 //Question 6://hold pe hai 
 // let n = Number(prompt("Enter a number"))
-// let arr =[];
-// for (let i = 0; i<=n ; i++ ){
+// let a,b,c;
+// a=0;
+// b=1;
+// process.stdout.write(a +", " + b +", ")
+// for(let i = 1;i<=n;i++){    
+//     if(n>2){
+//         c = a+b;
+//     process.stdout.write(c + ", ")
+//     a=b;
+//     b=c;
+//     }
+    
+// }   
 
-// }
 
 
