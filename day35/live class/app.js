@@ -40,3 +40,14 @@ const prompt = require('prompt-sync')();
 //     sum += arr[i]
 // }
 // console.log("sum is = "+sum);
+
+
+//problem 4: find greatest element of an array
+// let arr = [123,15,41,58,1,56,54,56,1,312,54,744,1,65,4,84,874,654,654,654,654,486]
+// let max = arr[0]
+// for(let i= 1;i<arr.length;i++){
+//     if(arr[i]>max){
+//         max = arr[i]
+//     }
+// }
+// console.log(max);
