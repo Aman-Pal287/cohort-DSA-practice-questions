@@ -15,3 +15,18 @@ const prompt = require('prompt-sync')();
 // if(sum == copy) console.log("strong number");
 // else console.log("not a strong number");
 
+
+//STARTING ARRAYS
+// let arr = [10,20,30,40]
+//arr.push(val) ->insert At last
+//arr.pop() -> delete at last
+//arr.ushift(val) -> insert aar first
+//arr.shift() -> delete at first
+
+//problem 2 : Taking array size from user input
+// let size = Number(prompt("enter array's size"));
+// let arr = new Array(size)
+// for(let i= 0;i<arr.length;i++){
+//     arr[i] = Number(prompt("Enter arrays's values"))
+// }
+// console.log(arr);
