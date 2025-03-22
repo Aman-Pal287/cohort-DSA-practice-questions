@@ -28,3 +28,25 @@ const prompt = require('prompt-sync')();
 // }
 // console.log("second minimum number is = " + sMin);
 
+
+//problem 2 : reverse of array
+//with space
+// let arr = [1,2,3,4,5,6,7,8,9,10]
+// let temp = new Array(arr.lenght)
+
+// for (let j=0, i = arr.length-1; i>=0; i--,j++){
+//     temp[j] = arr[i]
+// }
+// console.log(temp);
+
+// without creating new space
+// let arr = [1,2,3,4,5,6,7,8,9,10]
+// let i =0 , j= arr.length-1 , temp;
+// while(i<j){
+//     temp = arr[i]
+//     arr[i] = arr[j]
+//     arr[j] = temp
+//     i++
+//     j--
+// }
+// console.log(arr);
