@@ -27,3 +27,13 @@ const prompt = require('prompt-sync')();
 //     arr[arr.length - 1] = copy
 // }
 // console.log(arr);
+
+// method 3 : efficient tarika
+// let arr = [1,2,3,4,5]
+// let temp = new Array(arr.length);
+// let k = prompt('enter a number : ')
+// k = k % arr.length;
+// for (let i=0 ; i<arr.length;i++){
+//     temp[i] = arr[(i+k)%arr.length]
+// }
+// console.log(temp);
